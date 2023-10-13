@@ -14,7 +14,7 @@
  <br/>
 
 <p align="center">
-  <img alt="final-layout-tablet-version" src="./assets/capa.png" width="100%" >
+  <img alt="final-layout-tablet-version" src="./assets/Capa.png" width="100%" >
 </p>
 
 ## 🚀 Tecnologias
