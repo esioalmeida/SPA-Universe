@@ -107,7 +107,7 @@ h1 {
 .universe h1,
 .exploration h1,
 .not-found h1, p {
-  animation: dowmTop 2s ease-in-out;
+  animation: downTop 2s ease-in-out;
 }
 
 p {
