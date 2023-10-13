@@ -107,7 +107,7 @@ h1 {
 .universe h1,
 .exploration h1,
 .not-found h1, p {
-  animation: dowmtop 2s ease-in-out;
+  animation: dowmTop 2s ease-in-out;
 }
 
 p {
@@ -123,17 +123,6 @@ p {
   font-weight: bold;
   font-size: 2.4rem;
   line-height: 2.2rem;
-}
-
-@keyframes entering {
-  from {
-    opacity: 0;
-    transform: translateY(-200px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
 }
 
 @keyframes downTop {
